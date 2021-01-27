@@ -13,13 +13,6 @@ Restful Web Services
 Test Tool
 Postman
 
-Sample Postman screenshots
-
-![Initial View](/screenshots/updateFlightQuota.jpg?raw=true)
-
-![Initial View](/screenshots/createAirlineCompanies.jpg?raw=true)
-
-![Initial View](/screenshots/createTicket.jpg?raw=true)
-
+You can see sample postman screenshots in the screenshots folder.
 
 
